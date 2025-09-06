@@ -1,0 +1,114 @@
+[
+  {
+    "Roll": 1001,
+    "Name": "Aarav",
+    "Course": "Data Science",
+    "Marks": 88,
+    "City": "Delhi",
+    "EmailID": "sharmaarav@gmail.com"
+  },
+  {
+    "Roll": 1002,
+    "Name": "Ananya",
+    "Course": "Computer Science",
+    "Marks": 92,
+    "City": "Mumbai",
+    "EmailID": "ananya102@gmail.com"
+  },
+  {
+    "Roll": 1003,
+    "Name": "Rohan",
+    "Course": "Data Science",
+    "Marks": 76,
+    "City": "Pune",
+    "EmailID": "gupta06rohan@gmail.com"
+  },
+  {
+    "Roll": 1004,
+    "Name": "Isha",
+    "Course": "Information Technology",
+    "Marks": 67,
+    "City": "Delhi",
+    "EmailID": "i9sha@gmail.com"
+  },
+  {
+    "Roll": 1005,
+    "Name": "Kabir",
+    "Course": "Electronics",
+    "Marks": 45,
+    "City": "Jaipur",
+    "EmailID": "kabir78mehta@gmail.com"
+  },
+  {
+    "Roll": 1007,
+    "Name": "Vikram",
+    "Course": "Mechanical",
+    "Marks": 91,
+    "City": "Pune",
+    "EmailID": "joshi136@gmail.com"
+  },
+  {
+    "Roll": 1008,
+    "Name": "Sara",
+    "Course": "Data Science",
+    "Marks": 95,
+    "City": "Mumbai",
+    "EmailID": "sara54kh@gmail.com"
+  },
+  {
+    "Roll": 1009,
+    "Name": "Neha",
+    "Course": "Information Technology",
+    "Marks": 72,
+    "City": "Ahmedabad",
+    "EmailID": "neha@gmail.com"
+  },
+  {
+    "Roll": 1010,
+    "Name": "Arjun",
+    "Course": "Electronics",
+    "Marks": 64,
+    "City": "Hyderabad",
+    "EmailID": "arjun@gmail.com"
+  },
+  {
+    "Roll": 1011,
+    "Name": "Divya",
+    "Course": "Computer Science",
+    "Marks": 78,
+    "City": "Delhi",
+    "EmailID": "divya.kapoor@gmail.com"
+  },
+  {
+    "Roll": 1012,
+    "Name": "Kunal",
+    "Course": "Mechanical",
+    "Marks": 63,
+    "City": "Surat",
+    "EmailID": "kunal@gmail.com"
+  },
+  {
+    "Roll": 1013,
+    "Name": "Meera",
+    "Course": "Data Science",
+    "Marks": 84,
+    "City": "Chennai",
+    "EmailID": "meera111@gmail.com"
+  },
+  {
+    "Roll": 1014,
+    "Name": "Aditya",
+    "Course": "Information Technology",
+    "Marks": 59,
+    "City": "Bengaluru",
+    "EmailID": "adi7tya1kp@gmail.com"
+  },
+  {
+    "Roll": 1015,
+    "Name": "Riya",
+    "Course": "Computer Science",
+    "Marks": 47,
+    "City": "Kolkata",
+    "EmailID": "riya96@gmail.com"
+  }
+]
